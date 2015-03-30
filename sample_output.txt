@@ -1,0 +1,14 @@
+[root@web knowlarity]# ./log_parser.sh ../sample.log
+HTTP codes found in this log are:
+200
+302
+304
+404
+502
+
+The HTTP response code count is as follows:
+200:  39
+302:  1
+304:  2
+404:  7
+502:  4
